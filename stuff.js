@@ -14,7 +14,7 @@ require(['vs/editor/editor.main'], function() {
                 'put cursor on line below and ctrl+enter',
                 'S ≜ λn.λf.λx.f (n f x)\n',
                 'put cursor on line below and ctrl+enter',
-                '2 ≜ S (S (S 0))\n',
+                '2 ≜ S (S 0)\n',
                 'put cursor on line below and ctrl+enter',
                 'plus ≜ λa.λb.a S b\n',
                 'put cursor on line below and ctrl+enter',
